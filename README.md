@@ -1,4 +1,4 @@
-# PA_Climate_Projections
+# PA-Climate-Projections
 Measuring historic &amp; projected temperatures in Pennsylvania with Google Earth Engine
 
 This notebook builds on a tutorial from Michael Krisch and Juan Saldarriaga at the Brown Institute as well as existing work done by [Justin Braaten](https://jdbcode.github.io/) from the Google Earth Engine team. 
